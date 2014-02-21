@@ -22,9 +22,10 @@ The main functions are:
 </ul>
 
 Other useful functions include:
-
-  public function lastInsertedId()
-  public function numRows(...)
+<ul>
+  <li>public function lastInsertedId()</li>
+  <li>public function numRows(...)</li>
+</ul>
   
   
 I will upload the documentation of each function in here soon  . . . . 
