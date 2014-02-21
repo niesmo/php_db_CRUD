@@ -14,12 +14,12 @@ Using the debug variable (turning it on) will allow you to minimze the number qu
 Uinsg the error variable will let you debug error that you might have in the queries. For example, if something is not working.
 
 The main functions are:
-
-  public function select(...)
-  public function insert(...)
-  public function update(...)
-  public function delete(...)
-  
+<ul>
+  <li>public function select(...)</li>
+  <li>public function insert(...)</li>
+  <li>public function update(...)</li>
+  <li>public function delete(...)</li>
+</ul>
 
 Other useful functions include:
 
